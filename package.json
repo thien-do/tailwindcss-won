@@ -1,6 +1,6 @@
 {
-  "name": "tailwindcss-wo-normalize",
-  "version": "1.1.2-won",
+  "name": "tailwindcss-won",
+  "version": "1.1.2-won-1",
   "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
   "license": "MIT",
   "main": "lib/index.js",
